@@ -1,0 +1,19 @@
+# Byte-compiled / Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+# Streamlit local settings & cache
+.streamlit/
+
+# OS-generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/

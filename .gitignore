@@ -17,3 +17,6 @@ desktop.ini
 # IDE & Editor files
 .vscode/
 .idea/
+
+notebooks/eda_depth.ipynb
+notebooks/model_development_with_high_price*
